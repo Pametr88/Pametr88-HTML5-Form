@@ -1,20 +1,24 @@
+
 #header-form{
-    background-color:lightgray;
+    background-color: lightgray;    
 }
+
 #error-form{
     background-color: rgb(240, 173, 173);
     color: rgb(75, 7, 7);
 }
-#pics{
-    width: 80px;
-    height: 40px;
-}
-#fondo{
-    background-color: lightgray;
-}
+
 #foot{
     margin-bottom: 10px; 
 }
 #botplo{
     margin: 10px;
+}
+.titl{
+    text-align: center;
+}
+
+.fa-brands{
+    font-size: 50px;
+    color: #484d56;
 }
